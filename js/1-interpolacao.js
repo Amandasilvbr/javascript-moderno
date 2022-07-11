@@ -4,6 +4,6 @@ Estrutura da interpolação:
    `strings` 
    ${let,const} */
    
-let spaceshipName = "Apollo"
+   let spaceshipName = "Apollo"
 
-console.log(`Nome da nave: ${spaceshipName}`)
+   console.log(`Nome da nave: ${spaceshipName}`)
