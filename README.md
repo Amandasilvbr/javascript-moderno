@@ -1,4 +1,4 @@
-<h1>Olá! Esse repositório é composto de tópicos do Javascript moderno!</h1>
+<h1>Olá! Esse repositório é composto por tópicos do Javascript moderno!</h1>
 
 ✔️Cada arquivo corresponde a um tópico do ES6+, vistos no curso que estou estudando;
 
