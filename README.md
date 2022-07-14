@@ -5,14 +5,15 @@
 ✔️Todo o código possui comentários adicionais para estudo e comparação entre as novas funcionalidade do ES6+ e as versões anteriores
 
 📝Tópicos abordados:
-    1- Interpolação de string; 
-    2- Desestruturação de objetos e arrays; 
-    1-Operador spread;
-    2-Rest param;
+    1-Interpolação de string; 
+    2-Desestruturação de objetos e arrays; 
+    3-Operador spread;
+    4-Rest param;
+    5-Promises;
+    6-Then e Catch;
 
 📝Próximas atualizações:
-    3-SetInterval e SetTimeout
-    4-Promises;
-    5-Then e Catch;
+    1-SetInterval e SetTimeout
+    
 
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
