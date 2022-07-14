@@ -12,9 +12,8 @@
     4-Rest param;
     5-Promises;
     6-Then e Catch;
-    7-Exports e imports
-
-📝Próximas atualizações:
-    1-SetInterval e SetTimeout
+    7-Exports e imports;
+    8-SetInterval;
+    9-SetTimeout;   
     
 🌱 Esse projeto está sujeito a melhorias. Sugestões e opiniões sobre o código são sempre bem-vindas!
