@@ -2,7 +2,7 @@
 
 ✔️Cada arquivo corresponde a um tópico do ES6+, vistos no curso que estou estudando;
 
-✔️Todo o código possui comentários adicionais para estudo e comparação entre as novas funcionalidade do ES6+ e as versões anteriores
+✔️Todo o código possui comentários adicionais para estudo e comparação entre as novas funcionalidade do ES6+ e as versões anteriores.
 
 📝Tópicos abordados:
 
@@ -12,6 +12,7 @@
     4-Rest param;
     5-Promises;
     6-Then e Catch;
+    7-Exports e imports
 
 📝Próximas atualizações:
     1-SetInterval e SetTimeout
