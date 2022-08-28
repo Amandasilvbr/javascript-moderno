@@ -1,3 +1,5 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <h1>Olá! Esse repositório é composto por tópicos do Javascript moderno!</h1>
 
 ✔️Cada arquivo corresponde a um tópico do ES6+, vistos no curso que estou estudando;
